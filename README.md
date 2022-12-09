@@ -67,7 +67,7 @@
     ls
     cd Live-location.py
     ls
-     python Live-location.py
+    python Live-location.py
 # Disclaimer :
 * Live-locatio tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime (: ..Pull requests are always welcome.. :)
