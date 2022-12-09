@@ -57,7 +57,7 @@
     cd Live-location.py 
     ls
     sudo python Live-location.py
-# Termux Installation :
+# Termux Installation:
     apt update 
     apt install git 
     apt install python
