@@ -52,7 +52,7 @@
     sudo apt-get update
     sudo apt-get install git
     sudo apt install python
-    git clone https://github.com/akashblackhat/Live-location.py.gi
+    git clone https://github.com/akashblackhat/Live-location.py.git
     ls
     cd Live-location.py 
     ls
@@ -63,7 +63,7 @@
     apt install python
     apt install python3
     apt install cmatrix
-    git clone https://github.com/akashblackhat/Live-location.py.gi
+    git clone https://github.com/akashblackhat/Live-location.py.git
     ls
     cd Live-location.py
     ls
