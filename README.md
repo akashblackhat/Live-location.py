@@ -1,5 +1,5 @@
 ![Location-tracking-apps (2)](https://user-images.githubusercontent.com/88341460/206765485-a4f04a4d-e211-4830-9c51-91491f64d668.jpg)
-# Feutures and Containt :
+# 🔰Feutures and Containt🔰
     0) Ip Address
     
     1) city
@@ -35,7 +35,7 @@
     16) ASN
     
     17) Organization
- # Tested On Hackers :
+ # 🔗Tested On Hackers🔗
 * Kali Linux
 
 * BlackArch Linux
@@ -57,7 +57,7 @@
     cd Live-location.py 
     ls
     sudo python Live-location.py
-# Termux Installation:
+# 🔰Termux Installation🔰
     apt update 
     apt install git 
     apt install python
@@ -68,7 +68,7 @@
     cd Live-location.py
     ls
     python Live-location.py
-# Disclaimer :
+# ❌Disclaimer❌
 * Live-locatio tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime (: ..Pull requests are always welcome.. :)
 # Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
