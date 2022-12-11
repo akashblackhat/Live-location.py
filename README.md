@@ -51,12 +51,12 @@
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update
     sudo apt-get install git
-    sudo apt install python
+    sudo apt install python3
     git clone https://github.com/akashblackhat/Live-location.py.git
     ls
     cd Live-location.py 
     ls
-    sudo python Live-location.py
+    sudo python3 Live-location.py
 # 🔰Termux Installation🔰
     apt update 
     apt install git 
@@ -67,7 +67,7 @@
     ls
     cd Live-location.py
     ls
-    python Live-location.py
+    python3 Live-location.py
 # ❌Disclaimer❌
 * Live-locatio tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime (: ..Pull requests are always welcome.. :)
