@@ -51,6 +51,7 @@
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update
     sudo apt-get install git
+    sudo apt-get install pip
     sudo apt install python3
     git clone https://github.com/akashblackhat/Live-location.py.git
     ls
@@ -62,7 +63,7 @@
     apt install git 
     apt install python
     apt install python3
-    apt install cmatrix
+    apt install pip
     git clone https://github.com/akashblackhat/Live-location.py.git
     ls
     cd Live-location.py
