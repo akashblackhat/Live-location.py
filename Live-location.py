@@ -25,7 +25,7 @@ os.system("clear")
 
 
 def loop():
-    head = pyfiglet.figlet_format("")
+    head = pyfiglet.figlet_format("__")
     os.system("clear")
     print(Fore.GREEN + head)
     print(Fore.GREEN + """    
