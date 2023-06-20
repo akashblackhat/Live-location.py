@@ -40,9 +40,6 @@ def loop():
     ┴ ┴└─┴ ┴└─┘┴ ┴└─┘┴└─                                                                                                                                                       
  ==============================================
 [+]Author  : Akash Black Hat                 [+]
-[+]Team    : https://www.shorturl.at/gKO37   [+]
-[+]YouTub  : TECHNICAL AKASH SKILLS          [+]
-[+]WhapsApp: +91 8389020949                  [+]
 [+]GitHub  : https://github.com/akashblackhat[+]""")
     print(Fore.GREEN + """ ==============================================""")
     # print("Usage:Iptracker [Ip address]\n\nExample:Iptracker our prsnal ip")
